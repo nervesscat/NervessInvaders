@@ -29,9 +29,9 @@ You only need to create a canvas element in your html file with the id "game-can
 
 ## Screenshots
 
-![Start screen](https://i.ibb.co/hK9St78/image.png)
-![Controls screen](https://i.ibb.co/FXr3T9t/image.png)
-![Game screen](https://i.ibb.co/Ht9QxdR/image.png)
+![Start screen](https://i.ibb.co/y8Prbfs/image.png)
+![Controls screen](https://i.ibb.co/hc69zkv/image.png)
+![Game screen](https://i.ibb.co/F5dt0Vc/image.png)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
